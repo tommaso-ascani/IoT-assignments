@@ -8,4 +8,4 @@ A smart coffee machine (simulated) with the following tools:
   - 1 sonar
   - 1 servo motor
 
-The system is connected to a PC through serial line for refill simulaton. 
+The system is connected to a PC through serial line for refill simulation. 
