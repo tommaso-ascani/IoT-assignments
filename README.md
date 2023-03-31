@@ -1,1 +1,1 @@
-# IoT-assignments
+# Internet of Things
